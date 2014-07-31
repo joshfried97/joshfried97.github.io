@@ -13,9 +13,8 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
-
 }
 
 #links {
@@ -24,7 +23,7 @@ a {
 	width: 67%;
 	height: 3em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
 	
 }
@@ -53,7 +52,7 @@ a {
 	border: solid 0.15em black;
 	width: 67%;
 	height: 38em;
-	margin-left: 14%;
+	margin-left: 17%;
 }
 
 #content_title {
@@ -62,19 +61,20 @@ a {
 	margin-top: 0.5em;
 }
 
-#content_text {
-	font-family: Courier;
-	text-align:left;
-	margin: 4em;
-}
+
 
 #photo_of_ann {
 	width: 20em;
 	height: 15em;
-	margin-left: 20em;
+	margin-left: 32.5%;
 	border: 0.15em solid black;
 }
 
+#content_text {
+	font-family: Courier;
+	text-align:left;
+	margin: 7%;
+}
 
 #footer {
 	border: solid 0.15em black;
@@ -82,7 +82,7 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%em;
+	margin-left: 17%;
 	text-align: center;
 
 }

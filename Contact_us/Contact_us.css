@@ -13,9 +13,8 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
-
 }
 
 #links {
@@ -24,7 +23,7 @@ a {
 	width: 67%;
 	height: 3em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
 	
 }
@@ -54,7 +53,7 @@ a {
 	border: solid 0.15em black;
 	width: 67%;
 	height: 42em;
-	margin-left: 14%;
+	margin-left: 17%;
 }
 
 #content_title {
@@ -64,13 +63,13 @@ a {
 }
 
 .contact_information {
-	margin-left: 25em;
+	margin-left: 40%;
 	margin-bottom: 1em;
 	font-family: Courier;
 }
 
 #google_map {
-	margin-left: 17em;
+	margin-left: 31%;
 }
 
 
@@ -81,7 +80,7 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
 
 }

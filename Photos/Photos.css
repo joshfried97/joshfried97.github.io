@@ -8,14 +8,13 @@ a {
 }
 
 #title {
-	border: solid 2px black;
+	border: solid 0.15em black;
 	background-color: #454346;
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
-
 }
 
 #links {
@@ -24,9 +23,8 @@ a {
 	width: 67%;
 	height: 3em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
-	
 }
 
 #buttons_list {
@@ -54,7 +52,7 @@ a {
 	border: solid 2px black;
 	width: 67%;
 	height: 38em;
-	margin-left: 14%;
+	margin-left: 17%;
 }
 
 #content_title {
@@ -66,7 +64,7 @@ a {
 #photo_div {
 	width: 50.25em;
 	height: 23.5em;
-	margin-left: 5em;
+	margin-left: 9%;
 }
 
 .photo {
@@ -88,7 +86,7 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
 
 }

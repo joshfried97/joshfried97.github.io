@@ -13,9 +13,8 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
-
 }
 
 #links {
@@ -24,7 +23,7 @@ a {
 	width: 67%;
 	height: 3em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
 	
 }
@@ -54,34 +53,34 @@ a {
 	border: solid 0.15em black;
 	width: 67%;
 	height: 54em;
-	margin-left: 14%;
+	margin-left: 17%;
 }
 
 #content_title {
 	font-family: Courier;
 	text-align: center;
 	margin-top: 0.5em;
-	margin-right: 7em;
+	margin-right: 20%;
 }
 
 #specials_board_picture {
-	margin-left: 3em;
+	margin-left: 4%;
 	margin-top: 4em;
 	position: relative;
 }
 
 #menu_picture {
-	margin-right: 3em;
+	margin-right: 4%;
 	position: relative;
 
 }
 
 .menu_title {
-	margin-left: 15em;
+	margin-left: 27%;
 }
 
 .menu_table {
-	margin-left: 15em;
+	margin-left: 26%;
 	margin-bottom: 1em;
 	border: 0.15em solid;
 	width: 30em;
@@ -96,7 +95,7 @@ a {
 	width: 67%;
 	height: 8em;
 	margin: 0;
-	margin-left: 14%;
+	margin-left: 17%;
 	text-align: center;
 }
 
