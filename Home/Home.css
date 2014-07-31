@@ -74,8 +74,9 @@ a {
 }
 
 #dave_drinking_coffee_picture {
-	margin-left: 7%;
-	margin-bottom: 4em;
+	float: right;
+	margin-right: 7%;
+	margin-top: 6em;
 }
 
 #content_text_1 {
