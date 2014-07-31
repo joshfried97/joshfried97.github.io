@@ -68,6 +68,12 @@ a {
 	width: 12em;
 }
 
+#Content_text {
+	font-family: Courier;
+	text-align: center;
+	margin-top: 1em;
+}
+
 
 #footer {
 	border: solid 2px black;
