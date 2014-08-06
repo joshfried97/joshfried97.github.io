@@ -7,6 +7,10 @@ a {
 	text-decoration: none;
 }
 
+body {
+	font-family: Courier, Arial, Helvetica, sans-serif;
+}
+
 #title {
 	border: solid 0.15em black;
 	background-color: #454346;
@@ -24,29 +28,27 @@ a {
 	height: 3em;
 	margin: 0;
 	margin-left: 17%;
-	text-align: center;
-	
+	text-align: center;	
 }
 
-#buttons_list {
+#links ul {
 	padding-top: 1em;
 }
 
-
-#buttons_list a {
-	font-family: Courier; 
-	color:#000000;
-}
-
-#buttons_list a:hover {
-	color: white;
-}
-
-.link_buttons {
+#links li {
 	display: inline;
 	text-align: center;
 	margin: 0.5em;
+	width: 2em;
 }
+
+#links a {
+	color:#000000;
+}
+
+#links a:hover {
+	color: white;
+}	
 
 #content {
 	background-color: #8BA8B1;
@@ -57,7 +59,6 @@ a {
 }
 
 #content_title {
-	font-family: Courier;
 	text-align: center;
 	margin-top: 0.5em;
 }
@@ -66,7 +67,6 @@ a {
 	margin-left: 40%;
 	margin-bottom: 1em;
 	margin-top: 1em;
-	font-family: Courier;
 }
 
 #google_map {
@@ -76,19 +76,14 @@ a {
 
 #footer {
 	border: solid 0.15em black;
-	position: relative;
 	background-color: #454346;
 	width: 67%;
 	height: 8em;
+	padding-top: 4em;
 	margin: 0;
 	margin-left: 17%;
 	text-align: center;
-
+	color: #8BA8B1;
 }
 
-#footer_text {
-	font-family: Courier;
-	color:#8BA8B1;
-	margin-top: 4em;
-}
 
