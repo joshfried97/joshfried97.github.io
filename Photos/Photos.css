@@ -65,7 +65,7 @@ body {
 #photo_div {
 	width: 50.25em;
 	height: 23.5em;
-	margin-left: 9%;
+	margin:auto;
 }
 
 .photo {
@@ -76,7 +76,7 @@ body {
 
 #prompter {
 	text-align: center;
-	margin-top: 5em;
+	margin: 4em;
 }
 
 
