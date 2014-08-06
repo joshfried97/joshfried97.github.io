@@ -7,6 +7,10 @@ a {
 	text-decoration: none;
 }
 
+body {
+	font-family: Courier, Arial, Helvetica, sans-serif;
+}
+
 #title {
 	border: solid 0.15em black;
 	background-color: #454346;
@@ -28,24 +32,23 @@ a {
 	
 }
 
-#buttons_list {
+#links ul {
 	padding-top: 1em;
 }
 
-
-#buttons_list a {
-	font-family: Courier; 
-	color:#000000;
-}
-
-#buttons_list a:hover {
-	color: white;
-}
-
-.link_buttons {
+#links li {
 	display: inline;
 	text-align: center;
 	margin: 0.5em;
+	width: 2em;
+}
+
+#links a {
+	color:#000000;
+}
+
+#links a:hover {
+	color: white;
 }
 
 #content {
@@ -57,7 +60,6 @@ a {
 }
 
 #content_title {
-	font-family: Courier;
 	text-align: center;
 	margin-top: 0.5em;
 	margin-right: 20%;
@@ -91,18 +93,13 @@ a {
 #footer {
 	border: solid 0.15em black;
 	background-color: #454346;
-	position: relative;
 	width: 67%;
 	height: 8em;
+	padding-top: 4em;
 	margin: 0;
 	margin-left: 17%;
 	text-align: center;
-}
-
-#footer_text {
-	font-family: Courier;
-	color:#8BA8B1;
-	margin-top: 4em;
+	color: #8BA8B1;
 }
 
 
